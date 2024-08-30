@@ -7,3 +7,7 @@
 ## Реализация Д/З 2:
 
 ### Папка с проектом - <[HT2](https://github.com/Ikul23/JS/tree/main/HT2)>
+
+## Реализация Д/З 3:
+
+### Папка с проектом - <[HT3](https://github.com/Ikul23/JS/tree/main/HT3)>
