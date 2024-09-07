@@ -12,6 +12,10 @@
 
 ### Папка с проектом - <[HT3](https://github.com/Ikul23/JS/tree/main/HT3)>
 
-## Реализация Д/З 3:
+## Реализация Д/З 4:
 
 ### Папка с проектом - <[HT4](https://github.com/Ikul23/JS/tree/main/HT4)>
+
+## Реализация Д/З 5:
+
+### Папка с проектом - <[HT5](https://github.com/Ikul23/JS/tree/main/HT5)>
