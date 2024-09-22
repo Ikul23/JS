@@ -6,6 +6,8 @@
 
 ### Папка с проектом - <[HT1](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT1.js)>
 
+# Решение Д/З для курса "Основы JavaScript"
+
 ## Реализация Д/З 1:
 
 ### Папка с проектом - <[HT1](https://github.com/Ikul23/JS/tree/main/HT1)>
