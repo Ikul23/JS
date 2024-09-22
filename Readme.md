@@ -19,3 +19,9 @@
 ## Реализация Д/З 5:
 
 ### Папка с проектом - <[HT5](https://github.com/Ikul23/JS/tree/main/HT5)>
+
+Решение Д/З для курса "Продолжение JavaScript"
+
+## Реализация Д/З 1:
+
+### Папка с проектом - <[JS_ADV_HT](https://github.com/Ikul23/JS/tree/main/HT1)>
