@@ -24,4 +24,4 @@
 
 ## Реализация Д/З 1:
 
-### Папка с проектом - <[JS_ADV_HT](https://github.com/Ikul23/JS/tree/main/HT1)>
+### Папка с проектом - <[JS_ADV_HT](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT1.js)>
