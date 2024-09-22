@@ -1,5 +1,11 @@
 # Для удобства навигации по проекту добавлен файл Readme:
 
+# Решение Д/З для курса "Продолжение JavaScript"
+
+## Реализация Д/З 1:
+
+### Папка с проектом - <[JS_ADV_HT](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT1.js)>
+
 ## Реализация Д/З 1:
 
 ### Папка с проектом - <[HT1](https://github.com/Ikul23/JS/tree/main/HT1)>
@@ -19,9 +25,3 @@
 ## Реализация Д/З 5:
 
 ### Папка с проектом - <[HT5](https://github.com/Ikul23/JS/tree/main/HT5)>
-
-Решение Д/З для курса "Продолжение JavaScript"
-
-## Реализация Д/З 1:
-
-### Папка с проектом - <[JS_ADV_HT](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT1.js)>
