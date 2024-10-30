@@ -8,6 +8,8 @@
 
 ### Папка с проектом - <[HT2](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT2.js)>
 
+### Папка с проектом - <[HT3](https://github.com/Ikul23/JS/blob/main/JS_ADV_HT/HT3.js)>
+
 # Решение Д/З для курса "Основы JavaScript"
 
 ## Реализация Д/З 1:
